@@ -1,0 +1,4 @@
+Include ~/.ssh/personal/config
+Include ~/.ssh/work/config
+Include ~/.ssh/others/config
+

@@ -1,0 +1,5 @@
+Host nothing
+    HostName nothing.nothing
+    User nothing
+    IdentityFile ~/.ssh/others/keys/nothing
+
